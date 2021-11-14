@@ -14,7 +14,7 @@
 * Don't use "button" if you can avoid it. Instead of that, place a good and clear screenshot.·
 * Write simple sentences avoiding long explanations (eg. Instead of `Using this new tool, you can optimize your Docker images` use `To optimize your Docker images, use the [example tool](www.example.com)`.
 * Use gender neutral words and pronouns. Replace the masculine pronouns (his, he, himself) with either “you” or the plural.·
-* Name the different menus, options and items with the exact name that appear in the software (eg. `Go to the “Settings” section instead Configuration section in the Reducing tool`).·
+* Name the different menus, options and items with the exact name that appear in the software.
 
 ### Headings
 
@@ -34,7 +34,7 @@
 * Use descriptive external links (eg. `Find more details [here]` is less descriptive than `Find more details in [Docker official documentation]`).
 * Keep the parallel form. Start all steps with a verb (eg. `Click Edit`, `Select the item you want to edit`).
 
-| TIP: Find more tips on writing good content in the [Best Practices guide](https://drive.google.com/open?id=1mb_vdnMI5c9N4cqOr2-uS1vPxZqHsE0661EfoxFLGus) and in the [Blog Post template](https://docs.google.com/a/bitnami.com/document/d/10c2ojHQeZPORHlXCWbqhch9oId2GWvqUGZ9Dbal7umE/edit?usp=sharing).
+> TIP: Find more tips on writing good content in the [Best Practices guide](https://drive.google.com/open?id=1mb_vdnMI5c9N4cqOr2-uS1vPxZqHsE0661EfoxFLGus) and in the [Blog Post template](https://docs.google.com/a/bitnami.com/document/d/10c2ojHQeZPORHlXCWbqhch9oId2GWvqUGZ9Dbal7umE/edit?usp=sharing).
 ### Instructions
 
 If you are writing a blog post that contains some instructions or steps to follow, please take into account the following:
